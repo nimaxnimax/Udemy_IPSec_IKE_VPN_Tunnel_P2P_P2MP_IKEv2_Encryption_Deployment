@@ -9,9 +9,13 @@ Complete Crash Course >> How to Configure Deploy IPSec IKE VPN Tunnel + Site to 
 
 **********
 
-Tips/Tricks/Notes/Commands URL Link: https://github.com/nimaxnimax/Udemy_IPSec_IKE_VPN_Tunnel_P2P_P2MP_IKEv2_Encryption_Deployment.git
+Tips/Tricks/Notes/Commands URL Link:
 
-Instructor & Courses >> https://www.udemy.com/user/adrian-fischer-infotech/
+https://github.com/nimaxnimax/Udemy_IPSec_IKE_VPN_Tunnel_P2P_P2MP_IKEv2_Encryption_Deployment.git
+
+Instructor & Courses:
+
+https://www.udemy.com/user/adrian-fischer-infotech/
 
 **********
 
