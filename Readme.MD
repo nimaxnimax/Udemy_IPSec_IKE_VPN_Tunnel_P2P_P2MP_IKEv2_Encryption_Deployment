@@ -17,6 +17,7 @@ Instructor & Courses:
 https://www.udemy.com/user/adrian-fischer-infotech/
 
 **********
+![Alt text](image-3.png)
 
 Lab Requirements:
 
